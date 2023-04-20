@@ -59,6 +59,8 @@ La siguiente imagen muestra la evolución temporal de la producción primaria en
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
 + Concepto de competencia intraespecífica. [Aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2022-2023/guion_competencia_intraespecifica.html) puedes ver el guión de la sesión teórica y [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2022-2023/guion_competencia_intraespecifica_pinares.html) el de la práctica que hicimos sobre el asunto. 
   
++ Características y gestión de los pinares de Sierra Nevada. [Este](https://github.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/raw/main/biblio/varios_observatorio_sierra_nevada.pdf) documento recopila algunos artículos con información relevante sobre los pinares de Sierra Nevada. 
+  
 + Concepto de producción primaria.
   
   + El [guión de este tema](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/main/guion_produccion_primaria.html) de la asignatura contiene los elementos clave a considerar.
@@ -74,16 +76,12 @@ Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en 
 
 ## Aspectos aplicados a considerar en la explicación
 
-Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, son los siguientes:
+Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, la clave está en la forma en la que se gestionan los pinares de repoblación. Las siguientes fuentes de información son útiles para familiarizarse con el asunto
 
-+ Restauración ecológica. Conjunto de técnicas que ponemos en práctica los humanos para tratar de acelerar la sucesión ecológica natural. Implican varias actuaciones diferentes que persiguen reducir la pérdida de suelo y fomentar la recolonización de la vegetación. Los siguientes materiales pueden ser de utilidad:
-  + En el [guión sobre sucesión ecológica](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) hay información relevante para entender este aspecto.
-  + [Claves ecológicas para la restauración del bosque mediterráneo. Aspectos demográficos, ecofisiológicos y genéticos.](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/308/303) Artículo de la revista Ecosistemas. 
-  +  [Las limitaciones de la restauración de la cubierta vegetal](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/307/302). Artículo de la revista Ecosistemas. 
-
-+ Concepto de servicio ecosistémico de abastecimiento. Los servicios ecosistémicos se definen como el conjunto de beneficios que los sistemas naturales proveen a las sociedades humanas. Los más habituales son los denominados de "abastecimiento". Son aquellos que implican el suministro de materiales físicos por parte de los ecosistemas: madera, frutos, suelo fértil, etc. 
-+ Aprovechamiento apícola. Los matorrales de media montaña son ricos en especies melíferas (capaces de producir miel). 
-+ Aprovechamiento ganadero. Tanto los matorrales como el pasto que crece en este tipo de ecosistemas son plantas que pueden servir de alimiento para cabras y ovejas. 
++ Naturalización de pinares. Se refiere al proceso por el cual los pinares densos, monoespecíficos y coetaneos se transforman en masas más heterogeneas. [Este](https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/medio-forestal/actuaciones-y-obras-forestales/naturalizacion-y-mejora-de-masas-forestales/naturalizacion-de-pinares) texto de la Junta de Andalucía aporta información al respecto. 
+  
++ Ordenación de montes. Se trata de una técnica propia de las ciencias forestales y que permite poner en práctica la mencionada naturalización. 
+  
 
 Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a la lista sin problema. 
 
@@ -93,8 +91,7 @@ Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a 
 
 Este último bloque se refiere al conjunto de retos a los que nos enfrentamos para gestionar de manera sostenible este tipo de ecosistema. Al igual que antes, se trata de una lista abierta, así que cualquier contribución de los estudiantes que harán de profesores, será más que bienvenida. Esta sección nos permitirá conectar con la asignatura que veremos en tercero: *Gestión de ecosistemas*. 
 
-+ Erosión postincendio. Tras un incendio severo desaparece la cubierta vegetal y esto deja al suelo descubierto. Además, puede que el horizonte superficial del suelo también se calcine. Ambas circunstancias hacen que el suelo sea fácilmente lavado por las lluvias. 
-+ Abandono del medio rural. Las zonas de media montaña han experimentado un fuerte abandono desde mediados del siglo XX en toda la cuenca Mediterránea. Esto genera dinámicas complejas que pueden conducir a la desertificación del territorio. Una de estas situaciones es lo que se denomina "invasión del matorral" (*bush encroachment* en inglés). [Este](https://handwiki.org/wiki/Earth:Bush_encroachment) artículo explica con detalle en qué consiste este fenómeno.
++ Decaimiento forestal. La combinación de una excesiva competencia intraespecífica y el cambio climático pueden provocar procesos de debilitamiento y eventualmente colapso de los pinares de repoblación. Uno de los principales retos de gestión en nuestra época es reducir el riesgo de decaimiento. [Este](https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/medio-forestal/sanidad-forestal/seca-y-decaimiento-forestal/coniferas) texto resume bien en qué consiste este proceso y cómo mitigarlo. 
 
 
 
