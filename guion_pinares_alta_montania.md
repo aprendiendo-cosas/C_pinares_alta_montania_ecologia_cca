@@ -11,7 +11,7 @@
 >
 > 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/imagenes/portada.png)
 
 
 
@@ -34,15 +34,13 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
 
 ## Breve descripción de la zona de estudio
 
-La zona de estudio está a una altitud de unos 800m, en la ladera izquierda del valle del río Genil, a su paso por el pueblo de Cenes de la Vega. Se trata de una zona con fuertes pendientes y con una geología dominada por conglomerados margocalizas. La vegetación está formada por matorrales de media montaña en los que domina la aulaga (*Ulex parviflorus*), la retama (*Retama sphaerocarpa*) y varias especies de jara (*Cistus* sp.). También hay algunos pies aislados de encina (*Quercus rotundifolia*) que tienen porte arbustivo. Buena parte de esta cobertura vegetal se regeneró después de un incendio que asoló la zona en 2014. Antes de dicho incendio la vegetación estaba formada principalmente por pinares de repoblación (*Pinus pinaster* y *Pinus hapelensis*). 
-
-
+La zona de estudio está a una altitud de unos 2100 m, en la ladera izquierda del valle del río San Juan. Es una zona con suaves pendientes. Abundan los esquistos y otras rocas metamórficas. Aunque climáticamente corresponde que en esa zona haya matorrales almohadillados de alta montaña, el territorio está ocupado por pinares de repoblación. Fueron plantados en la década de 1960 y en la actualidad se observan en ellos tanto el efecto de la competencia intraespecífica como las consecuencias de varias perturbaciones (aludes que arrastraron muchos ejemplares).
 
 En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremos esta actividad. Es un mapa dinámico en el que puedes interactuar con los distintos elementos. Si haces click en los puntos verás fotos e información relevante.
 
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Nc5RPO-uuxBLzaR_kkBiotzvcN6BmB0&ehbc=2E312F" width="640" height="680"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1v5J2WrkVCOxW-U4rpS1-fTwVDqdFodk&ehbc=2E312F" width="640" height="680"></iframe>
 
 La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
 
