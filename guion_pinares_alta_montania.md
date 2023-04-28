@@ -7,7 +7,7 @@
 >
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 >
-> + **_Estudiantes encargados de la actividad_**: Grupo 5
+> + **_Estudiantes encargados de la actividad_**: Grupo 6
 >
 > 
 
@@ -111,5 +111,4 @@ Elaborar un hilo argumental coherente requiere práctica. Os cuento a continuaci
 + Añadir referencias a elementos que los estudiantes ya saben (o deberían de saber...). Esto fomenta el aprendizaje profundo.
 
 Además, la intervención debe de tener una estructura bien definida. Es decir, debéis de usar los consejos anteriores para definir un hilo argumental concreto. Podéis empezar hablando del tipo de ecosistema que estemos visitando para luego seguir, por ejemplo, enumerando los factores ambientales que determinan su estructura y funcionamiento. Esto es solo una sugerencia. Podéis plantear otras opciones. 
-
 
